@@ -4,3 +4,4 @@ Add a new line.
 The line shouldn't exits
 
 Added by dev
+fixed a bug
